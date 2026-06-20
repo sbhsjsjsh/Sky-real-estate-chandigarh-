@@ -15,6 +15,9 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: 'Sky Real Estate Chandigarh | Trusted Real Estate Agency',
   description: 'Find verified flats, plots, and apartments in Chandigarh with Sky Real Estate. Trusted real estate agency for premium property deals.',
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
