@@ -1,0 +1,6 @@
+{
+  "name": "Sky Real Estate",
+  "description": "Premium real estate services in Chandigarh. Buy, sell, and rent properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
