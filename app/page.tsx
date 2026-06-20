@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from "motion/react";
 import { 
   Building, 
@@ -13,7 +15,7 @@ import {
   MessageCircle
 } from "lucide-react";
 
-export default function App() {
+export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       {/* Navigation */}
